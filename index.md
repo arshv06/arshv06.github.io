@@ -24,6 +24,11 @@
 
 ---
 ### My Current Ongoing Projects
+
+[Chattar Pattar](https://chattarpattar.netlify.app)
+<img src="images/chattarpatter.png?raw=true"/>
+
+---
 [Wings of Peace](https://github.com/arshv06/Wings-of-Peace)
 <img src="images/drone.jpg?raw=true"/>
 
